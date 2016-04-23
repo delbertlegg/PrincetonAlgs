@@ -1,4 +1,4 @@
-package edu.princeton.Boggle;
+
 
 /**
  * Compilation: java BoggleSolver [dictionary][board]
